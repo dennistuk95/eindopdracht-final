@@ -1,0 +1,20 @@
+.no-background {
+    background-color: none;
+}
+
+li {
+    border: black;
+    border-width: 5px;
+    border-style:solid;
+    padding: 2%;
+    margin: 1%;
+    width: 150px;
+    height: 3px;
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ul {
+    display:none;
+}
